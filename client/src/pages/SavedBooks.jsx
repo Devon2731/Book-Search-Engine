@@ -1,15 +1,18 @@
 import { useState, useEffect } from 'react';
 import {
+  Jumbotron,
   Container,
+  CardColumns,
   Card,
-  Button,
-  Row,
-  Col
+  Button
 } from 'react-bootstrap';
 
 import { getMe, deleteBook } from '../utils/API';
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
+
+import { useMutation, useQuery } from '@apollo/client';
+import { REMOVE_BOOK } from '../utils/mutation';
 
 const SavedBooks = () => {
   const [userData, setUserData] = useState({});
