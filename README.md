@@ -21,6 +21,10 @@ GraphQL: Query language used for interacting with the server-side API.
 JSON Web Tokens (JWT): Used for secure user authentication.
 Google Books API: External API used for searching and retrieving book information.
 
+## Deployment
+
+https://my-book-search-engines-4789a017d099.herokuapp.com/
+
 ## Screenshots
 
 ![Screenshot 2024-01-31 at 10 25 43 PM](https://github.com/Devon2731/Book-Search-Engine/assets/141438012/4335a01e-f1eb-4db7-af29-469f29c1e971)
