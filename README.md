@@ -32,7 +32,7 @@ Google Books API: External API used for searching and retrieving book informatio
 
 ![Screenshot 2024-01-31 at 10 35 06 PM](https://github.com/Devon2731/Book-Search-Engine/assets/141438012/745350e4-e50a-45c4-ad53-e17afe5545a5)
 
-## Licence 
+## License 
 MIT
 
 ## Credits
